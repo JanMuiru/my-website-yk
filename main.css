@@ -6,12 +6,13 @@
 }
 body {
     
+    background-color: burlywood;
     color:brown;
     font-weight: 600;
 }
 
 #topic {
-    color: yellow;
+    color: palevioletred;
     text-align: center;
     font-weight: 900,bold;
 }
